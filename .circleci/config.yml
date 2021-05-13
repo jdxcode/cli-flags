@@ -15,7 +15,6 @@ jobs:
       - run: node -v
       - run: yarn
       - run: yarn test --coverage
-      - run: curl -s https://codecov.io/bash | bash
       - save_cache:
           key: v0-yarn-{{ .Branch }}-{{checksum "yarn.lock"}}
           paths:

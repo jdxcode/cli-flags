@@ -2,7 +2,6 @@ cli-flags
 =========
 
 [![CircleCI](https://circleci.com/gh/heroku/cli-flags/tree/master.svg?style=svg)](https://circleci.com/gh/heroku/cli-flags/tree/master)
-[![codecov](https://codecov.io/gh/heroku/cli-flags/branch/master/graph/badge.svg)](https://codecov.io/gh/heroku/cli-flags)
 
 CLI flag parser.
 
